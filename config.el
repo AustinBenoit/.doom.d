@@ -41,7 +41,7 @@
 ;; If you use `org' and don't want your org files in the default location below,
 ;; change `org-directory'. It must be set before org loads!
 (setq org-directory "~/Notes/")
-(setq org-roam-directory "~Notes/Roam")
+(setq org-roam-directory "~/Notes/Roam")
 (setq org-roam-dailies-directory "Journal/")
 
 
